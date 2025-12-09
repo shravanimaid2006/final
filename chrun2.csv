@@ -1,0 +1,17 @@
+customer_id,plan_type,data_usage_gb,region,customer_tier,is_active,complaints,last_recharge_date,days_since_last_recharge,avg_call_duration,min_monthly_payment,total_recharge_amount,sms_usage,churn
+C001,Prepaid,12.5,North,Bronze,1,0,2025-01-12,5,12.4,199,1500,34,0
+C002,Postpaid,45.1,South,Gold,1,1,2025-01-01,16,8.1,499,5200,12,0
+C003,Prepaid,3.4,East,Silver,0,0,2024-12-28,20,3.5,149,900,5,1
+C004,Hybrid,22.3,West,Bronze,1,1,2025-01-10,7,15.2,299,2400,18,0
+C005,Postpaid,55.8,North,Platinum,1,0,2025-01-14,3,6.9,799,7000,8,0
+C006,Prepaid,8.9,South,Bronze,0,1,2024-12-20,28,2.1,99,400,2,1
+C007,Postpaid,33.5,East,Silver,1,0,2025-01-16,1,14.0,399,3500,22,0
+C008,Hybrid,18.4,West,Silver,1,0,2025-01-05,12,7.8,249,1800,30,0
+C009,Prepaid,6.1,North,Bronze,0,1,2024-12-18,30,3.2,129,650,3,1
+C010,Postpaid,47.0,South,Gold,1,0,2025-01-13,4,10.5,599,6000,19,0
+C011,Hybrid,20.2,East,Silver,0,1,2024-12-25,23,5.7,269,2000,7,1
+C012,Prepaid,4.8,West,Bronze,1,0,2025-01-09,8,4.0,119,550,4,0
+C013,Postpaid,60.4,North,Platinum,1,0,2025-01-15,2,16.2,899,8500,10,0
+C014,Hybrid,15.5,South,Gold,0,1,2024-12-30,18,9.3,349,2600,14,1
+C015,Prepaid,2.3,East,Bronze,0,1,2024-12-15,33,1.9,79,300,1,1
+
